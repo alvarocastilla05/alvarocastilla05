@@ -34,8 +34,7 @@
   </ul>
 </div>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?alvarocastilla05=ffflabs)](https://github.com/alvalvarocastilla05/github-readme-stats)
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?alvarocastilla05=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
