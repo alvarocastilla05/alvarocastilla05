@@ -55,11 +55,9 @@
 
 
 <!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=alvarocastilla05&label=Profile%20Views&color=7&icon=0&pretty=false" />
+</a>
 
 
 <!--horizontal divider(gradiant)-->
