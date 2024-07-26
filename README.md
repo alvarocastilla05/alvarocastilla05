@@ -34,8 +34,7 @@
   </ul>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarocastilla05&hide_progress=true)
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?alvarocastilla05=ffflabs)](https://github.com/alvalvarocastilla05/github-readme-stats)
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
