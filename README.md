@@ -21,18 +21,78 @@
 <!--Intro start-->
 - 📖Soy un estudiante de los Salesianos de Triana.
 - Actualmente curso en el segundo curso de Desarrollo de Aplicaciones Multiplataforma 💻
+- Java como lengua principal, además de conocimientos en JavaScript/TypeScript y Python.
+- Manejo frameworks como Spring Boot (backend) y Angular (frontend), así como tecnologías web (HTML5, CSS3).
+- Experiencia en desarrollo móvil multiplataforma con Flutter.
+- Manejo de bases de datos con SQL, principalmente PostgreSQL.
+- Familiaridad con metodologías ágiles,.
+- Creación de prototipos en Figma.
+- Uso básico de contenedores Docker.
 <!--Intro end-->
 
 
 
 
 
-<!--h1 without bottom border-->
+### 🚀 **Tecnologías y Herramientas:**
+
+#### 💻 **Lenguajes de Programación**:
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+---
+
+#### 🛠️ **Frameworks y Librerías**:
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
+
+---
+
+#### 🌐 **Tecnologías Web**:
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+---
+
+#### 🗄️ **Bases de Datos**:
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+---
+
+#### 📦 **Contenedores**:
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
+#### 🎨 **Prototipado y Diseño**:
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías que Uso👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Estadísticas</h2></summary>
   </ul>
 </div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alvarocastilla05&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarocastilla05&layout=compact&theme=radical" alt="Top Langs"/>
+</p>
+</p>
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
@@ -50,6 +110,8 @@
 
   
 </p>
+
+
 
 
 <!--profile visit count-->
